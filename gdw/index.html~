@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Santiago's Getting Down with HTML Lessons</title>
+<style>
+	body {
+	margin: 40px;
+	padding: 40px;
+	background-color: #FFF8DC;
+	border: 1px solid #808080;
+	}
+</style>
+</head>
+<h1>Getting Down with HTML Lessons</h1>
+
+<h2>Elements</h2>
+<ul>
+  <li><a href="block.html">Block-level Elements</a></li>
+  <li><a href="object.html">Object Elements</a></li>
+</ul>
+
+<h2>Lists</h2>
+<ul>
+  <li><a href="ordered.html">Ordered</a></li>
+  <li><a href="unordered.html">Unordered</a></li>
+  <li><a href="descriptions.html">Definition</a></li>
+</ul>
+
+<h2>Tables</h2>
+<ul>
+ <li><a href="decbinocthex.html">Decimal,Binary,Octal and Hex</a></li>
+</ul>
+<h2>Links</h2>
+<ul>
+  <li><a href="favorite.html">My Favorite Websites</a></li>
+</ul>
+
+<h2>Images</h2>
+<ul>
+  <li><a href="gallery1.html">Gallery I</a></li>
+  <li><a href="gallery2.html">Gallery II</a></li>
+</ul>
+
+<footer style="text-align: center;">
+<a href="http://validator.w3.org/check/referer">
+<strong> HTML </strong> Valid! </a>
+</footer>

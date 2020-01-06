@@ -18,8 +18,11 @@ p {
     text-align: justify;
 }
 
+
 </style>
+</head>
 <body>
+
 <h1>Santiago's Website</h1>
 
 <h2>Classwork</h2>
@@ -36,8 +39,9 @@ p {
 
 
 </body>
-</html>
-</head>
+
+
+
 
 <footer>
 <a href="http://validator.w3.org/check?uri=https://sulunque.github.io/itd110/">
@@ -46,3 +50,4 @@ p {
 href="http://jigsaw.w3.org/css-validator/validator?uri=https://sulunque.github.io/itd110/?profile=css3">
 <strong> CSS </strong> Valid! </a>
 </footer>
+</html>
